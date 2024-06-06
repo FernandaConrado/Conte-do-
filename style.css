@@ -48,6 +48,8 @@ css2?family=Inter:wght@700&display=swap” rel=”stylesheet”>
         .principal {
             background-repeat: no-repeat;
 background-size: contain;
+align-items: center;
+text-align: center;
         }
         .container__botao {
             background-color: var(--botao-azul);
@@ -77,5 +79,6 @@ margin-bottom: 1em;
             .container__caixa{
                 margin: 0 6em;
                 }
+        
 
             
