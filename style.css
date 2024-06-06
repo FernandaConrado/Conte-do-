@@ -48,5 +48,8 @@ background-size: contain;
             .container {
                 height: 100vh;
                 display:grid;
+                display:grid;
+grid-template-columns: 50% 50%;
+}
                 }
             
