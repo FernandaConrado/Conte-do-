@@ -13,7 +13,7 @@
 :root {
     - - b r a n c o - p r i n c i p a l :
     #FFFFFF;
-    - - c i n z a-s e c u n d a r i o:
+    - - c i n z a-s e c u n d a r i o :
     #C0C0C0;
     --botao-azul: #167BF7;
     --cor-de-fundo: #00030C;}
@@ -33,4 +33,7 @@
             .container {
                 height: 100vh;
                 }
+
+                background-image: url(“img/Background.png”);
+                background-repeat: no-repeat;
             
