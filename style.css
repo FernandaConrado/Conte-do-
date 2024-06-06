@@ -45,5 +45,8 @@ background-size: contain;
             border-radius: 5px;
             padding: 1em;
             color: var(--branco-principal);
-            }
+            .container {
+                height: 100vh;
+                display:grid;
+                }
             
