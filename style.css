@@ -96,6 +96,16 @@ margin-bottom: 1em;
                             .descricao__texto {
                                 color: var(--cinza-secundario);
                                 }
+                                </div>
+                                <img src=”img/Só o Combo+.png” alt=”Tela da Alura Plus e da Alura língua» class=”secundario__imagem”>
+                                .secundario__botao {
+                                    display: inline-block;
+                                    margin-top: 1em;
+                                    }
+                                    .container__descricao {
+                                        padding: 2em;
+                                        }
+                        
         
 
             
